@@ -1,8 +1,5 @@
 # Reading list
 
-# Reading Days: _69_
-# Papers remaining _49_
-
 ## Depth
 
 ### Learning programming languages
