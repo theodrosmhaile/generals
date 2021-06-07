@@ -1,10 +1,13 @@
 # Reading list
- 
-## Depth 
+
+# Reading Days: _69_
+# Papers remaining _49_
+
+## Depth
 
 ### Learning programming languages
 
-Fedorenko, E., Ivanova, A., Dhamala, R., & Bers, M. U. (2019). The Language of Programming: A Cognitive Perspective. Trends in Cognitive Sciences, 23(7), 525–528. https://doi.org/10.1016/j.tics.2019.04.010
+_Fedorenko, E., Ivanova, A., Dhamala, R., & Bers, M. U. (2019). The Language of Programming: A Cognitive Perspective. Trends in Cognitive Sciences, 23(7), 525–528. https://doi.org/10.1016/j.tics.2019.04.010_
 
 Lye, S. Y., & Koh, J. H. L. (2014). Review on teaching and learning of computational thinking through programming: What is next for K-12? Computers in Human Behavior, 41, 51–61. https://doi.org/10.1016/j.chb.2014.09.012
 
@@ -28,7 +31,7 @@ Hill, N. M., & Schneider, W. (2006). Brain Changes in the Development of Experti
 
 Lee, F. J., & Anderson, J. R. (2001). Does Learning a Complex Task Have to Be Complex?: A Study in Learning Decomposition. Cognitive Psychology, 42(3), 267–316. https://doi.org/10.1006/cogp.2000.0747
 
-Schneider, W., & Chein, J. M. (2003). Controlled & automatic processing: Behavior, theory, and biological mechanisms. Cognitive Science, 27(3), 525–559. https://doi.org/10.1207/s15516709cog2703_8
+Schneider, W., & Chein, J. M. (2003). Controlled & automatic processing: Behavior, theory, and biological mechanisms. Cognitive Science, 27(3), 525–559. https://doi.org/10.1207/s15516709cog2703\_8
 
 Tenison, C., Fincham, J. M., & Anderson, J. R. (2016). Phases of learning: How skill acquisition impacts cognitive processing. Cognitive Psychology, 87, 1–28. https://doi.org/10.1016/j.cogpsych.2016.03.001
 Computational models of learning
@@ -37,7 +40,7 @@ Anderson, J. R., Bothell, D., Fincham, J. M., & Moon, J. (2016). The sequential 
 
 Collins, A. G. E., & Frank, M. J. (2013). Cognitive control over learning: Creating, clustering, and generalizing task-set structure. Psychological Review, 120(1), 190–229. https://doi.org/10.1037/a0030852
 
-Collins, A. G. E. (2018). The Tortoise and the Hare: Interactions between Reinforcement Learning and Working Memory. Journal of Cognitive Neuroscience, 30(10), 1422–1432. https://doi.org/10.1162/jocn_a_01238
+Collins, A. G. E. (2018). The Tortoise and the Hare: Interactions between Reinforcement Learning and Working Memory. Journal of Cognitive Neuroscience, 30(10), 1422–1432. https://doi.org/10.1162/jocn\_a\_01238
 
 Gläscher, J., Daw, N., Dayan, P., & O’Doherty, J. P. (2010). States versus Rewards: Dissociable Neural Prediction Error Signals Underlying Model-Based and Model-Free Reinforcement Learning. Neuron, 66(4), 585–595. https://doi.org/10.1016/j.neuron.2010.04.016
 
