@@ -13,14 +13,14 @@ Mayer, R. E. (1981). The psychology of how novices learn computer programming. C
 Prat, C. S., Madhyastha, T. M., Mottarella, M. J., & Kuo, C.-H. (2020). Relating Natural Language Aptitude to Individual Differences in Learning Programming Languages. Scientific Reports, 10(1), 3817. https://doi.org/10.1038/s41598-020-60661-8 
 
 Robins, A., Rountree, J., & Rountree, N. (2003). Learning and Teaching Programming: A Review and Discussion. Computer Science Education, 13(2), 137–172. https://doi.org/10.1076/csed.13.2.137.14200
+
 Shute, V. J. (1991). Who is Likely to Acquire Programming Skills? Journal of Educational Computing Research, 7(1), 1–24. https://doi.org/10.2190/VQJD-T1YD-5WVB-RYPJ
 
 ### Individual differences in Skill learning
 
-Anderson, J. R., Fincham, J. M. & Douglass, S. (1997). The role of examples and rules in the
-acquisition of a cognitive skill. Journal of Experimental Psychology 23(4), 932-945. 
+Anderson, J. R., Fincham, J. M. & Douglass, S. (1997). The role of examples and rules in the acquisition of a cognitive skill. Journal of Experimental Psychology 23(4), 932-945.
 
-Fitts, P. M., & Posner, M. I. (1967). Learning and skilled performance. Human performance, 8-25.
+_Fitts, P. M., & Posner, M. I. (1967). Learning and skilled performance. Human performance, 8-25._
 
 Hikosaka, O., Yamamoto, S., Yasuda, M., & Kim, H. F. (2013). Why skill matters. Trends in Cognitive Sciences, 17(9), 434–441. https://doi.org/10.1016/j.tics.2013.07.001
 
