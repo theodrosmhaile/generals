@@ -1,4 +1,4 @@
-# Lee and Anderson; Does learning a complex skill have to be complex?
+# Lee and Anderson (2001); Does learning a complex skill have to be complex?
 ## Research Question:
 Can we have a more complete characterization of complex tasks with learning theories?
 Learning at the global level reflects the learning of lower level task components. 
@@ -6,8 +6,10 @@ Learning at the global level reflects the learning of lower level task component
 Analyze behavioral data on the Ackerman Air-Traffic Controller Task with additional eye-tracking characterization. 
 1. Decompose hierarchically the KA-ATC task from the global task level to smaller component skills like keystrokes. 
 	2. Improvement at the higher level should be consistent with the lower level. 
+- Task Analysis levels:
+	- 
 ## Findings
- 
+ - The time spent looking at task-irrelevant areas decreased substantially while task-relevant area looking was consistent as determined by total fixation duration. 
 ## Limitations
 
 ## summary and how does it connect
@@ -22,7 +24,11 @@ Analyze behavioral data on the Ackerman Air-Traffic Controller Task with additio
 	- **Acquisition as strengthening a procedure:** According to _Anderson (1982)_ power laws of complex tasks are made of power laws of simple tasks. In simple tasks, individual steps are _strengthened_ instead of collapse of multistep processes since these do not exist in simple tasks. 
 		- _MacKay_ on the other hand suggested that knowledge is an hierarchical organization of information. E.g. Sentences are supra-ordinate to verb and noun phrases. Verb and noun phrases are in turn supra-ordinate to other nodes that represent syllables. Priming mechanisms speeded the responsiveness of the other nodes at the same level. AS above, the decreased number of opportunities for learning because of the reduction in the available number of unpracticed nodes the learning curve becomes a power law, reduced from an exponential function 
 	-  **Acquisition as selecting a procedure:** _Crossman (1959)_ and, later,  _Logan (1988)_ posited that the speedup is associated with selecting a faster method of performing the task during learning. These methods are perhaps different memory retrievals vs algorithmic process. Power function speed up is observed because there is an increasing number of methods that race in parallel with practice. The fastest method is then selected. _Rickard (1997)_ argues that this has to happen serially, not in parallel, and the speedup is due to a change in the strategy. 
-- **Reducibility Hypothesis** states that complex tasks are simply made up of smaller components that are governed by basic learning principles. It is not clear if these learning principles are declarative vs procedural. 
+- **Reducibility Hypothesis** states that complex tasks are simply made up of smaller components that are governed by basic learning principles. It is not clear if these learning principles are declarative vs procedural.  A requirement for consistency states that improvement at the global level should be reflected by improvement at the smaller component level. 
+- 
+
+## Other note
+- KA-ATC task design is interesting to model into a python interface
 ### Highlights
 Yellow - points to note/important 
 Red - questions/discrepancies/disagree/don’t understand
