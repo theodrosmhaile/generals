@@ -10,7 +10,7 @@ Lye, S. Y., & Koh, J. H. L. (2014). Review on teaching and learning of computati
 
 Mayer, R. E. (1981). The psychology of how novices learn computer programming. Computing Surveys 13(1). 
 
-Prat, C. S., Madhyastha, T. M., Mottarella, M. J., & Kuo, C.-H. (2020). Relating Natural Language Aptitude to Individual Differences in Learning Programming Languages. Scientific Reports, 10(1), 3817. https://doi.org/10.1038/s41598-020-60661-8 
+Prat, C. S., Madhyastha, T. M., Mottarella, M. J., & Kuo, C.-H. (2020). Relating Natural Language Aptitude to Individual Differences in Learning Programming Languages. Scientific Reports, 10(1), 3817. https://doi.org/10.1038/s41598-020-60661-8
 
 Robins, A., Rountree, J., & Rountree, N. (2003). Learning and Teaching Programming: A Review and Discussion. Computer Science Education, 13(2), 137–172. https://doi.org/10.1076/csed.13.2.137.14200
 
@@ -31,7 +31,8 @@ _Lee, F. J., & Anderson, J. R. (2001). Does Learning a Complex Task Have to Be C
 Schneider, W., & Chein, J. M. (2003). Controlled & automatic processing: Behavior, theory, and biological mechanisms. Cognitive Science, 27(3), 525–559. https://doi.org/10.1207/s15516709cog2703\_8
 
 Tenison, C., Fincham, J. M., & Anderson, J. R. (2016). Phases of learning: How skill acquisition impacts cognitive processing. Cognitive Psychology, 87, 1–28. https://doi.org/10.1016/j.cogpsych.2016.03.001
-Computational models of learning
+
+### Computational models of learning
 
 Anderson, J. R., Bothell, D., Fincham, J. M., & Moon, J. (2016). The sequential structure of brain activation predicts skill. Neuropsychologia, 81, 94–106. https://doi.org/10.1016/j.neuropsychologia.2015.12.014
 
