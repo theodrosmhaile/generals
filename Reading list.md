@@ -14,7 +14,7 @@ Prat, C. S., Madhyastha, T. M., Mottarella, M. J., & Kuo, C.-H. (2020). Relating
 
 Robins, A., Rountree, J., & Rountree, N. (2003). Learning and Teaching Programming: A Review and Discussion. Computer Science Education, 13(2), 137–172. https://doi.org/10.1076/csed.13.2.137.14200
 
-Shute, V. J. (1991). Who is Likely to Acquire Programming Skills? Journal of Educational Computing Research, 7(1), 1–24. https://doi.org/10.2190/VQJD-T1YD-5WVB-RYPJ
+_Shute, V. J. (1991). Who is Likely to Acquire Programming Skills? Journal of Educational Computing Research, 7(1), 1–24. https://doi.org/10.2190/VQJD-T1YD-5WVB-RYPJ
 
 ### Individual differences in Skill learning
 
