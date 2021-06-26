@@ -10,7 +10,7 @@ Lye, S. Y., & Koh, J. H. L. (2014). Review on teaching and learning of computati
 
 Mayer, R. E. (1981). The psychology of how novices learn computer programming. Computing Surveys 13(1). 
 
-Prat, C. S., Madhyastha, T. M., Mottarella, M. J., & Kuo, C.-H. (2020). Relating Natural Language Aptitude to Individual Differences in Learning Programming Languages. Scientific Reports, 10(1), 3817. https://doi.org/10.1038/s41598-020-60661-8
+_Prat, C. S., Madhyastha, T. M., Mottarella, M. J., & Kuo, C.-H. (2020). Relating Natural Language Aptitude to Individual Differences in Learning Programming Languages. Scientific Reports, 10(1), 3817. https://doi.org/10.1038/s41598-020-60661-8_
 
 Robins, A., Rountree, J., & Rountree, N. (2003). Learning and Teaching Programming: A Review and Discussion. Computer Science Education, 13(2), 137–172. https://doi.org/10.1076/csed.13.2.137.14200
 
@@ -50,7 +50,7 @@ Taatgen, N. A., & Anderson, J. R. (2002). Why do children learn to say “Broke�
 ## Breadth
 ### Multiple Memory systems
 
-Antzoulatos, E. G., & Miller, E. K. (2014). Increases in Functional Connectivity between Prefrontal Cortex and Striatum during Category Learning. Neuron, 83, 10. 
+_Antzoulatos, E. G., & Miller, E. K. (2014). Increases in Functional Connectivity between Prefrontal Cortex and Striatum during Category Learning. Neuron, 83, 10. _
 
 Crossley, M. J., Roeder, J. L., Helie, S., & Ashby, F. G. (2018). Trial-by-trial switching between procedural and declarative categorization systems. Psychological Research, 82(2), 371–384. https://doi.org/10.1007/s00426-016-0828-4
 
