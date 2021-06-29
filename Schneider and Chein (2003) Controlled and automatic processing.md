@@ -11,10 +11,10 @@ Presents a summary of the controlled vs automatic processing and suggests some b
 ## summary and how does it connect
 - **Automatic processes** are responses or behaviors that are deployed automatically without active control given the right input. S &S (1997) define this as the automatic activation of a series of ‘nodes’ [in memory]. 
 	- Sufficient training is required to activate these nodes in such an automatic fashion. 
-	- These networks of nodes are very stable. 
+	- These networks of nodes are very stable. Automatic processes are not mentally taxing and are resistant to stressor and distractors
 - **controlled processes** are activations of more temporary sequences of nodes through attentional, active control of the subject. 
 	- These are capacity limited but there are large benefits where these fast flexible networks could be organized and activated to learn and perform actions quickly for situations where automatic processes have not been learned. 
-	- _Learning in this case, with a varied mapping trial does not occur_
+	- _Learning in this case, with a varied mapping trial does not occur_. Controlled processes are reported to be effortful, and affected by distractions and stressors. 
 	- Automatic vs controlled processing 
 
 ### Highlights
