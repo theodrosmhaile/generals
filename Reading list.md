@@ -14,13 +14,13 @@ _Prat, C. S., Madhyastha, T. M., Mottarella, M. J., & Kuo, C.-H. (2020). Relatin
 
 Robins, A., Rountree, J., & Rountree, N. (2003). Learning and Teaching Programming: A Review and Discussion. Computer Science Education, 13(2), 137–172. https://doi.org/10.1076/csed.13.2.137.14200
 
-\_Shute, V. J. (1991). Who is Likely to Acquire Programming Skills? Journal of Educational Computing Research, 7(1), 1–24. https://doi.org/10.2190/VQJD-T1YD-5WVB-RYPJ
+_Shute, V. J. (1991). Who is Likely to Acquire Programming Skills? Journal of Educational Computing Research, 7(1), 1–24. https://doi.org/10.2190/VQJD-T1YD-5WVB-RYPJ
 
 ### Individual differences in Skill learning
 
 Anderson, J. R., Fincham, J. M. & Douglass, S. (1997). The role of examples and rules in the acquisition of a cognitive skill. Journal of Experimental Psychology 23(4), 932-945.
 
-Hikosaka, O., Yamamoto, S., Yasuda, M., & Kim, H. F. (2013). Why skill matters. Trends in Cognitive Sciences, 17(9), 434–441. https://doi.org/10.1016/j.tics.2013.07.001
+_Hikosaka, O., Yamamoto, S., Yasuda, M., & Kim, H. F. (2013). Why skill matters. Trends in Cognitive Sciences, 17(9), 434–441. https://doi.org/10.1016/j.tics.2013.07.001_
 
 Hill, N. M., & Schneider, W. (2006). Brain Changes in the Development of Expertise: Neuroanatomical and Neurophysiological Evidence about Skill-Based Adaptations. In K. A. Ericsson, N. Charness, P. J. Feltovich, & R. R. Hoffman (Eds.), The Cambridge Handbook of Expertise and Expert Performance (pp. 653–682). Cambridge University Press. https://doi.org/10.1017/CBO9780511816796.037
 
@@ -31,7 +31,6 @@ Tenison, C., Fincham, J. M., & Anderson, J. R. (2016). Phases of learning: How s
 ### Computational models of learning
 
 Anderson, J. R., Bothell, D., Fincham, J. M., & Moon, J. (2016). The sequential structure of brain activation predicts skill. Neuropsychologia, 81, 94–106. https://doi.org/10.1016/j.neuropsychologia.2015.12.014
-
 
 Collins, A. G. E. (2018). The Tortoise and the Hare: Interactions between Reinforcement Learning and Working Memory. Journal of Cognitive Neuroscience, 30(10), 1422–1432. https://doi.org/10.1162/jocn\_a\_01238
 
@@ -49,7 +48,6 @@ Anderson, J. R. (1982). Acquisition of cognitive skill. Psychological review, 89
  Keren, G., & Schul, Y. (2009). Two is not always better than one: A critical evaluation of two-system theories. Perspectives on Psychological Science, 4, 500–533.
 
 McDonald, R. J., & Hong, N. S. (2013). How does a specific learning and memory system in the mammalian brain gain control of behavior?: Memory Systems and Behavioral Control. Hippocampus, 23(11), 1084–1102. https://doi.org/10.1002/hipo.22177
-
 
 Poldrack, R. A., Clark, J., Paré-Blagoev, E. J., Shohamy, D., Creso Moyano, J., Myers, C., & Gluck, M. A. (2001). Interactive memory systems in the human brain. Nature, 414(6863), 546–550. https://doi.org/10.1038/35107080
 
