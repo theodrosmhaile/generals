@@ -22,7 +22,7 @@ Anderson, J. R., Fincham, J. M. & Douglass, S. (1997). The role of examples and 
 
 _Hikosaka, O., Yamamoto, S., Yasuda, M., & Kim, H. F. (2013). Why skill matters. Trends in Cognitive Sciences, 17(9), 434–441. https://doi.org/10.1016/j.tics.2013.07.001_
 
-Hill, N. M., & Schneider, W. (2006). Brain Changes in the Development of Expertise: Neuroanatomical and Neurophysiological Evidence about Skill-Based Adaptations. In K. A. Ericsson, N. Charness, P. J. Feltovich, & R. R. Hoffman (Eds.), The Cambridge Handbook of Expertise and Expert Performance (pp. 653–682). Cambridge University Press. https://doi.org/10.1017/CBO9780511816796.037
+_Hill, N. M., & Schneider, W. (2006). Brain Changes in the Development of Expertise: Neuroanatomical and Neurophysiological Evidence about Skill-Based Adaptations. In K. A. Ericsson, N. Charness, P. J. Feltovich, & R. R. Hoffman (Eds.), The Cambridge Handbook of Expertise and Expert Performance (pp. 653–682). Cambridge University Press. https://doi.org/10.1017/CBO9780511816796.037_
 
 Schneider, W., & Chein, J. M. (2003). Controlled & automatic processing: Behavior, theory, and biological mechanisms. Cognitive Science, 27(3), 525–559. https://doi.org/10.1207/s15516709cog2703\_8
 
