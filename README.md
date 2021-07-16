@@ -1,7 +1,7 @@
 # generals
 This is a list of readings for generals and my notes. 
 
-# Reading Days: _48_
+# Reading Days: _46_
 # Papers remaining _41_
 
 ## Overview
