@@ -14,7 +14,7 @@ _Prat, C. S., Madhyastha, T. M., Mottarella, M. J., & Kuo, C.-H. (2020). Relatin
 
 Robins, A., Rountree, J., & Rountree, N. (2003). Learning and Teaching Programming: A Review and Discussion. Computer Science Education, 13(2), 137–172. https://doi.org/10.1076/csed.13.2.137.14200
 
-_Shute, V. J. (1991). Who is Likely to Acquire Programming Skills? Journal of Educational Computing Research, 7(1), 1–24. https://doi.org/10.2190/VQJD-T1YD-5WVB-RYPJ
+_Shute, V. J. (1991). Who is Likely to Acquire Programming Skills? Journal of Educational Computing Research, 7(1), 1–24. https://doi.org/10.2190/VQJD-T1YD-5WVB-RYPJ_
 
 ### Individual differences in Skill learning
 
@@ -24,7 +24,7 @@ _Hikosaka, O., Yamamoto, S., Yasuda, M., & Kim, H. F. (2013). Why skill matters.
 
 _Hill, N. M., & Schneider, W. (2006). Brain Changes in the Development of Expertise: Neuroanatomical and Neurophysiological Evidence about Skill-Based Adaptations. In K. A. Ericsson, N. Charness, P. J. Feltovich, & R. R. Hoffman (Eds.), The Cambridge Handbook of Expertise and Expert Performance (pp. 653–682). Cambridge University Press. https://doi.org/10.1017/CBO9780511816796.037_
 
-Schneider, W., & Chein, J. M. (2003). Controlled & automatic processing: Behavior, theory, and biological mechanisms. Cognitive Science, 27(3), 525–559. https://doi.org/10.1207/s15516709cog2703\_8
+*Schneider, W., & Chein, J. M. (2003). Controlled & automatic processing: Behavior, theory, and biological mechanisms. Cognitive Science, 27(3), 525–559. https://doi.org/10.1207/s15516709cog2703\_8*
 
 Tenison, C., Fincham, J. M., & Anderson, J. R. (2016). Phases of learning: How skill acquisition impacts cognitive processing. Cognitive Psychology, 87, 1–28. https://doi.org/10.1016/j.cogpsych.2016.03.001
 
@@ -43,7 +43,7 @@ Taatgen, N. A., & Anderson, J. R. (2002). Why do children learn to say “Broke�
 ## Breadth
 ### Multiple Memory systems
 
-Anderson, J. R. (1982). Acquisition of cognitive skill. Psychological review, 89(4), 369
+*Anderson, J. R. (1982). Acquisition of cognitive skill. Psychological review, 89(4), 369*
 
  Keren, G., & Schul, Y. (2009). Two is not always better than one: A critical evaluation of two-system theories. Perspectives on Psychological Science, 4, 500–533.
 
@@ -64,8 +64,7 @@ Squire, L. R. (2004). Memory systems of the brain: a brief history and current p
 
 ### Declarative memory
 
-Anderson, J. R. (2000). Acquisition of Memories. Learning and memory: An integrated approach (2nd ed.). John 
-Wiley & Sons Inc.
+*Anderson, J. R. (2000). Acquisition of Memories. Learning and memory: An integrated approach (2nd ed.). John Wiley & Sons Inc.*
 
 Anderson, J. R. (2000). Retention of Memories. Learning and memory: An integrated approach (2nd ed.). John Wiley & Sons Inc.
 
@@ -81,7 +80,7 @@ Baddeley, A. (2012). Working Memory: Theories, Models, and Controversies. Annual
 
 Ericsson & Kintsch (1995) Long-Term Working Memory. Psychological Review, 102, 211-245.
 
-Miller, E. K. (2013). The working of Working memory. Translational Research, 15(4), 8.
+*Miller, E. K. (2013). The working of Working memory. Translational Research, 15(4), 8.*
 
 Miller, E. K., Lundqvist, M., & Bastos, A. M. (2018). Working Memory 2.0. Neuron, 100(2), 463–475. https://doi.org/10.1016/j.neuron.2018.09.023
 
