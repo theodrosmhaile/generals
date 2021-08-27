@@ -32,9 +32,9 @@ Tenison, C., Fincham, J. M., & Anderson, J. R. (2016). Phases of learning: How s
 
 Anderson, J. R., Bothell, D., Fincham, J. M., & Moon, J. (2016). The sequential structure of brain activation predicts skill. Neuropsychologia, 81, 94–106. https://doi.org/10.1016/j.neuropsychologia.2015.12.014
 
-Collins, A. G. E. (2018). The Tortoise and the Hare: Interactions between Reinforcement Learning and Working Memory. Journal of Cognitive Neuroscience, 30(10), 1422–1432. https://doi.org/10.1162/jocn\_a\_01238
+*Collins, A. G. E. (2018). The Tortoise and the Hare: Interactions between Reinforcement Learning and Working Memory. Journal of Cognitive Neuroscience, 30(10), 1422–1432. https://doi.org/10.1162/jocn\_a\_01238*
 
-Gläscher, J., Daw, N., Dayan, P., & O’Doherty, J. P. (2010). States versus Rewards: Dissociable Neural Prediction Error Signals Underlying Model-Based and Model-Free Reinforcement Learning. Neuron, 66(4), 585–595. https://doi.org/10.1016/j.neuron.2010.04.016
+*Gläscher, J., Daw, N., Dayan, P., & O’Doherty, J. P. (2010). States versus Rewards: Dissociable Neural Prediction Error Signals Underlying Model-Based and Model-Free Reinforcement Learning. Neuron, 66(4), 585–595. https://doi.org/10.1016/j.neuron.2010.04.016*
 
 Marewski, J. N., & Schooler, L. J. (2011). Cognitive Niches: An Ecological Model of Strategy Selection. American Psycological Association, 118(3), 45.
 
@@ -49,7 +49,7 @@ Taatgen, N. A., & Anderson, J. R. (2002). Why do children learn to say “Broke�
 
 McDonald, R. J., & Hong, N. S. (2013). How does a specific learning and memory system in the mammalian brain gain control of behavior?: Memory Systems and Behavioral Control. Hippocampus, 23(11), 1084–1102. https://doi.org/10.1002/hipo.22177
 
-Poldrack, R. A., Clark, J., Paré-Blagoev, E. J., Shohamy, D., Creso Moyano, J., Myers, C., & Gluck, M. A. (2001). Interactive memory systems in the human brain. Nature, 414(6863), 546–550. https://doi.org/10.1038/35107080
+*Poldrack, R. A., Clark, J., Paré-Blagoev, E. J., Shohamy, D., Creso Moyano, J., Myers, C., & Gluck, M. A. (2001). Interactive memory systems in the human brain. Nature, 414(6863), 546–550. https://doi.org/10.1038/35107080*
 
 Poldrack, Russell A, & Packard, M. G. (2003). Competition among multiple memory systems: Converging evidence from animal and human brain studies. Neuropsychologia 41(2003) 245–2517.
 
@@ -72,7 +72,7 @@ Anderson, J. R. (2000). Retrieval of Memories. Learning and memory: An integrate
 
 
 ### Working Memory
-Awh, E., Vogel, E. K., & Oh, S.-H. (2006). Interactions between attention and working memory. Neuroscience, 139(1), 201–208. https://doi.org/10.1016/j.neuroscience.2005.08.023
+*Awh, E., Vogel, E. K., & Oh, S.-H. (2006). Interactions between attention and working memory. Neuroscience, 139(1), 201–208. https://doi.org/10.1016/j.neuroscience.2005.08.023*
 
 Baddeley, A. (2012). Working Memory: Theories, Models, and Controversies. Annual Review of Psychology, 63(1), 1–29. https://doi.org/10.1146/annurev-psych-120710-100422
 
@@ -82,7 +82,7 @@ Ericsson & Kintsch (1995) Long-Term Working Memory. Psychological Review, 102, 2
 
 *Miller, E. K. (2013). The working of Working memory. Translational Research, 15(4), 8.*
 
-Miller, E. K., Lundqvist, M., & Bastos, A. M. (2018). Working Memory 2.0. Neuron, 100(2), 463–475. https://doi.org/10.1016/j.neuron.2018.09.023
+*Miller, E. K., Lundqvist, M., & Bastos, A. M. (2018). Working Memory 2.0. Neuron, 100(2), 463–475. https://doi.org/10.1016/j.neuron.2018.09.023*
 
 Eriksson, J., Vogel, E. K., Lansner, A., Bergström, F., & Nyberg, L. (2015). Neurocognitive Architecture of Working Memory. Neuron, 88(1), 33–46. https://doi.org/10.1016/j.neuron.2015.09.020
 
@@ -95,7 +95,7 @@ Redick, T. S., & Lindsey, D. R. B. (2013). Complex span and n-back measures of w
 
 ### Reinforcement Learning
 
-Collins, A. G. E., & Frank, M. J. (2012). How much of reinforcement learning is working memory, not reinforcement learning? A behavioral, computational, and neurogenetic analysis: Working memory in reinforcement learning. European Journal of Neuroscience, 35(7), 1024–1035. https://doi.org/10.1111/j.1460-9568.2011.07980.x
+*Collins, A. G. E., & Frank, M. J. (2012). How much of reinforcement learning is working memory, not reinforcement learning? A behavioral, computational, and neurogenetic analysis: Working memory in reinforcement learning. European Journal of Neuroscience, 35(7), 1024–1035. https://doi.org/10.1111/j.1460-9568.2011.07980.x*
 
 Gluck, M. A. (2002). How do People Solve the “Weather Prediction” Task?: Individual Variability in Strategies for Probabilistic Category Learning. Learning & Memory, 9(6), 408–418. https://doi.org/10.1101/lm.45202
 
