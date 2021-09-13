@@ -6,19 +6,19 @@
 
 _Fedorenko, E., Ivanova, A., Dhamala, R., & Bers, M. U. (2019). The Language of Programming: A Cognitive Perspective. Trends in Cognitive Sciences, 23(7), 525–528. https://doi.org/10.1016/j.tics.2019.04.010_
 
-Lye, S. Y., & Koh, J. H. L. (2014). Review on teaching and learning of computational thinking through programming: What is next for K-12? Computers in Human Behavior, 41, 51–61. https://doi.org/10.1016/j.chb.2014.09.012
+*Lye, S. Y., & Koh, J. H. L. (2014). Review on teaching and learning of computational thinking through programming: What is next for K-12? Computers in Human Behavior, 41, 51–61. https://doi.org/10.1016/j.chb.2014.09.012*
 
-Mayer, R. E. (1981). The psychology of how novices learn computer programming. Computing Surveys 13(1). 
+*Mayer, R. E. (1981). The psychology of how novices learn computer programming. Computing Surveys 13(1). *
 
 _Prat, C. S., Madhyastha, T. M., Mottarella, M. J., & Kuo, C.-H. (2020). Relating Natural Language Aptitude to Individual Differences in Learning Programming Languages. Scientific Reports, 10(1), 3817. https://doi.org/10.1038/s41598-020-60661-8_
 
-Robins, A., Rountree, J., & Rountree, N. (2003). Learning and Teaching Programming: A Review and Discussion. Computer Science Education, 13(2), 137–172. https://doi.org/10.1076/csed.13.2.137.14200
+*Robins, A., Rountree, J., & Rountree, N. (2003). Learning and Teaching Programming: A Review and Discussion. Computer Science Education, 13(2), 137–172. https://doi.org/10.1076/csed.13.2.137.14200*
 
 _Shute, V. J. (1991). Who is Likely to Acquire Programming Skills? Journal of Educational Computing Research, 7(1), 1–24. https://doi.org/10.2190/VQJD-T1YD-5WVB-RYPJ_
 
 ### Individual differences in Skill learning
 
-Anderson, J. R., Fincham, J. M. & Douglass, S. (1997). The role of examples and rules in the acquisition of a cognitive skill. Journal of Experimental Psychology 23(4), 932-945.
+*Anderson, J. R., Fincham, J. M. & Douglass, S. (1997). The role of examples and rules in the acquisition of a cognitive skill. Journal of Experimental Psychology 23(4), 932-945.*
 
 _Hikosaka, O., Yamamoto, S., Yasuda, M., & Kim, H. F. (2013). Why skill matters. Trends in Cognitive Sciences, 17(9), 434–441. https://doi.org/10.1016/j.tics.2013.07.001_
 
