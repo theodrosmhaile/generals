@@ -26,11 +26,11 @@ _Hill, N. M., & Schneider, W. (2006). Brain Changes in the Development of Expert
 
 *Schneider, W., & Chein, J. M. (2003). Controlled & automatic processing: Behavior, theory, and biological mechanisms. Cognitive Science, 27(3), 525–559. https://doi.org/10.1207/s15516709cog2703\_8*
 
-Tenison, C., Fincham, J. M., & Anderson, J. R. (2016). Phases of learning: How skill acquisition impacts cognitive processing. Cognitive Psychology, 87, 1–28. https://doi.org/10.1016/j.cogpsych.2016.03.001
+*Tenison, C., Fincham, J. M., & Anderson, J. R. (2016). Phases of learning: How skill acquisition impacts cognitive processing. Cognitive Psychology, 87, 1–28. https://doi.org/10.1016/j.cogpsych.2016.03.001*
 
 ### Computational models of learning
 
-Anderson, J. R., Bothell, D., Fincham, J. M., & Moon, J. (2016). The sequential structure of brain activation predicts skill. Neuropsychologia, 81, 94–106. https://doi.org/10.1016/j.neuropsychologia.2015.12.014
+*Anderson, J. R., Bothell, D., Fincham, J. M., & Moon, J. (2016). The sequential structure of brain activation predicts skill. Neuropsychologia, 81, 94–106. https://doi.org/10.1016/j.neuropsychologia.2015.12.014*
 
 *Collins, A. G. E. (2018). The Tortoise and the Hare: Interactions between Reinforcement Learning and Working Memory. Journal of Cognitive Neuroscience, 30(10), 1422–1432. https://doi.org/10.1162/jocn\_a\_01238*
 

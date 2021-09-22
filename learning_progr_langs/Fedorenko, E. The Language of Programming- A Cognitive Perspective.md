@@ -10,8 +10,8 @@ Which learning/memory mechanism are required?
 Review paper
 ## Findings
   comp science language is becoming integral.
-- Cop languages are similar to natural languages but the cognitive underpinnings and their links have not been extensively evaluated. 
-	- both CL and NL rely on building blocks and a set of constraints for how the building blocks are combined to create complex meaning. 
+- Comp languages are similar to natural languages but the cognitive underpinnings and their links have not been extensively evaluated. 
+	- both CL and NL rely on building blocks and a set of constraints for how the building blocks are combined to create complex meaning.
 - multistep processing pipeline:
 	- comprehension: what do the words/lines of code mean?
 	- generating: think, plan and write/speak. 
@@ -22,6 +22,7 @@ Review paper
 
 ## summary and how does it connect
 This is a review paper that establishes the necessity and plausibility of understanding computer programming languages from the point of view of  natural languages. 
+
 
 ### Highlights
 Yellow - points to note/important 
