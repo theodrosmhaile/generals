@@ -36,28 +36,28 @@ _Hill, N. M., & Schneider, W. (2006). Brain Changes in the Development of Expert
 
 *Gläscher, J., Daw, N., Dayan, P., & O’Doherty, J. P. (2010). States versus Rewards: Dissociable Neural Prediction Error Signals Underlying Model-Based and Model-Free Reinforcement Learning. Neuron, 66(4), 585–595. https://doi.org/10.1016/j.neuron.2010.04.016*
 
-Marewski, J. N., & Schooler, L. J. (2011). Cognitive Niches: An Ecological Model of Strategy Selection. American Psycological Association, 118(3), 45.
+*Marewski, J. N., & Schooler, L. J. (2011). Cognitive Niches: An Ecological Model of Strategy Selection. American Psycological Association, 118(3), 45.*
 
-Taatgen, N. A., & Anderson, J. R. (2002). Why do children learn to say “Broke”? A model of learning the past tense without feedback. Cognition, 86(2), 123–155. https://doi.org/10.1016/S0010-0277(02)00176-2
+*Taatgen, N. A., & Anderson, J. R. (2002). Why do children learn to say “Broke”? A model of learning the past tense without feedback. Cognition, 86(2), 123–155. https://doi.org/10.1016/S0010-0277(02)00176-2*
 
 ## Breadth
 ### Multiple Memory systems
 
 *Anderson, J. R. (1982). Acquisition of cognitive skill. Psychological review, 89(4), 369*
 
- Keren, G., & Schul, Y. (2009). Two is not always better than one: A critical evaluation of two-system theories. Perspectives on Psychological Science, 4, 500–533.
+ *Keren, G., & Schul, Y. (2009). Two is not always better than one: A critical evaluation of two-system theories. Perspectives on Psychological Science, 4, 500–533.*
 
-McDonald, R. J., & Hong, N. S. (2013). How does a specific learning and memory system in the mammalian brain gain control of behavior?: Memory Systems and Behavioral Control. Hippocampus, 23(11), 1084–1102. https://doi.org/10.1002/hipo.22177
+*McDonald, R. J., & Hong, N. S. (2013). How does a specific learning and memory system in the mammalian brain gain control of behavior?: Memory Systems and Behavioral Control. Hippocampus, 23(11), 1084–1102. https://doi.org/10.1002/hipo.22177*
 
 *Poldrack, R. A., Clark, J., Paré-Blagoev, E. J., Shohamy, D., Creso Moyano, J., Myers, C., & Gluck, M. A. (2001). Interactive memory systems in the human brain. Nature, 414(6863), 546–550. https://doi.org/10.1038/35107080*
 
-Poldrack, Russell A, & Packard, M. G. (2003). Competition among multiple memory systems: Converging evidence from animal and human brain studies. Neuropsychologia 41(2003) 245–2517.
+*Poldrack, Russell A, & Packard, M. G. (2003). Competition among multiple memory systems: Converging evidence from animal and human brain studies. Neuropsychologia 41(2003) 245–2517.*
 
-Puig, M. V., ANTZOULATOS, E. G., & MILLER, E. K. (2014). Prefrontal dopamine in associative learning and memory. Neuroscience, 282 (2014), 217–229. http://dx.doi.org/10.1016/j.neuroscience.2014.09.026
+*Puig, M. V., ANTZOULATOS, E. G., & MILLER, E. K. (2014). Prefrontal dopamine in associative learning and memory. Neuroscience, 282 (2014), 217–229. http://dx.doi.org/10.1016/j.neuroscience.2014.09.026*
 
-Sloman, S.A. (1996).  The empirical case for two systems of reasoning.  Psychological Bulletin, 119   (1), 3-22.
+*Sloman, S.A. (1996).  The empirical case for two systems of reasoning.  Psychological Bulletin, 119   (1), 3-22.*
 
-Squire, L. R. (2004). Memory systems of the brain: a brief history and current perspective. Neurobiology of learning and memory, 82(3), 171-177. 
+*Squire, L. R. (2004). Memory systems of the brain: a brief history and current perspective. Neurobiology of learning and memory, 82(3), 171-177.*
 
 
 
@@ -88,7 +88,7 @@ Eriksson, J., Vogel, E. K., Lansner, A., Bergström, F., & Nyberg, L. (2015). Ne
 
 McNab, F., & Klingberg, T. (2008). Prefrontal cortex and basal ganglia control access to working memory. Nature Neuroscience, 11(1), 103–107. https://doi.org/10.1038/nn2024
 
-Ranganath, C., Cohen, M. X., & Brozinsky, C. J. (n.d.). Working Memory Maintenance Contributes to Long-term Memory Formation: Neural and Behavioral Evidence. 17(7), 24.
+*Ranganath, C., Cohen, M. X., & Brozinsky, C. J. (n.d.). Working Memory Maintenance Contributes to Long-term Memory Formation: Neural and Behavioral Evidence. 17(7), 24.*
 
 Redick, T. S., & Lindsey, D. R. B. (2013). Complex span and n-back measures of working memory: A meta-analysis. Psychonomic Bulletin & Review, 20(6), 1102–1113. https://doi.org/10.3758/s13423-013-0453-9
 

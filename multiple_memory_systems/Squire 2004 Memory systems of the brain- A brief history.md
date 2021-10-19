@@ -1,0 +1,2 @@
+# Squire 2004 Memory systems of the brain: A brief history
+This is a historical account of the development of the idea of multiple memory systems. Highlights throughout the paper would provide good summaries of the ideas discussed should they be needed for writing. 
