@@ -1,5 +1,5 @@
 # Baddeley 2012 Working memory: Theories, models and controversies
-
+Abandoned and replaced by the 2010 review which is more concise. 
 ## Research Question
 ## Approach
 

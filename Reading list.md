@@ -66,7 +66,7 @@ _Hill, N. M., & Schneider, W. (2006). Brain Changes in the Development of Expert
 
 *Anderson, J. R. (2000). Acquisition of Memories. Learning and memory: An integrated approach (2nd ed.). John Wiley & Sons Inc.*
 
-Anderson, J. R. (2000). Retention of Memories. Learning and memory: An integrated approach (2nd ed.). John Wiley & Sons Inc.
+*Anderson, J. R. (2000). Retention of Memories. Learning and memory: An integrated approach (2nd ed.). John Wiley & Sons Inc.*
 
 Anderson, J. R. (2000). Retrieval of Memories. Learning and memory: An integrated approach (2nd ed.). John Wiley & Sons Inc.
 
@@ -74,9 +74,9 @@ Anderson, J. R. (2000). Retrieval of Memories. Learning and memory: An integrate
 ### Working Memory
 *Awh, E., Vogel, E. K., & Oh, S.-H. (2006). Interactions between attention and working memory. Neuroscience, 139(1), 201–208. https://doi.org/10.1016/j.neuroscience.2005.08.023*
 
-Baddeley, A. (2012). Working Memory: Theories, Models, and Controversies. Annual Review of Psychology, 63(1), 1–29. https://doi.org/10.1146/annurev-psych-120710-100422
+*Baddeley, A. (2012). Working Memory: Theories, Models, and Controversies. Annual Review of Psychology, 63(1), 1–29. https://doi.org/10.1146/annurev-psych-120710-100422*
 
- Cowan, N. (1999). An Embedded-Processes Model of Working Memory.  In A. Miyake & P. Shah (Eds.), Models of working memory: Mechanisms of active maintenance and executive control (pp.62-101).  Cambridge: Cambridge University Press.
+ *Cowan, N. (1999). An Embedded-Processes Model of Working Memory.  In A. Miyake & P. Shah (Eds.), Models of working memory: Mechanisms of active maintenance and executive control (pp.62-101).  Cambridge: Cambridge University Press.*
 
 Ericsson & Kintsch (1995) Long-Term Working Memory. Psychological Review, 102, 211-245.
 
@@ -112,7 +112,7 @@ Bastos, A. M., & Schoffelen, J. M. (2016). A tutorial review of functional conne
 
 Daw, N. D. (2009). Trial-by-trial data analysis using computational models. Attention & Performance 26.
 
-Wilson, R. C., & Collins, A. G. (2019). Ten simple rules for the computational modeling of behavioral data. ELife, 8, e49547. https://doi.org/10.7554/eLife.49547 
+*Wilson, R. C., & Collins, A. G. (2019). Ten simple rules for the computational modeling of behavioral data. ELife, 8, e49547. https://doi.org/10.7554/eLife.49547 *
 
 Gordon, E. M., Laumann, T. O., Gilmore, A. W., Newbold, D. J., Greene, D. J., Berg, J. J., Ortega, M., Hoyt-Drazen, C., Gratton, C., Sun, H., Hampton, J. M., Coalson, R. S., Nguyen, A. L., McDermott, K. B., Shimony, J. S., Snyder, A. Z., Schlaggar, B. L., Petersen, S. E., Nelson, S. M., & Dosenbach, N. U. F. (2017). Precision Functional Mapping of Individual Human Brains. Neuron, 95(4), 791-807.e7. https://doi.org/10.1016/j.neuron.2017.07.011
 
