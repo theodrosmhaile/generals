@@ -1,8 +1,8 @@
 # generals
 This is a list of readings for generals and my notes. 
 
-# Reading Days: _8_
-# Papers remaining _11_
+# Reading Days: _5_
+# Papers remaining _9_
 
 ## Overview
 46 papers including 4 book chapters. 

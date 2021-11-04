@@ -84,9 +84,9 @@ Ericsson & Kintsch (1995) Long-Term Working Memory. Psychological Review, 102, 2
 
 *Miller, E. K., Lundqvist, M., & Bastos, A. M. (2018). Working Memory 2.0. Neuron, 100(2), 463–475. https://doi.org/10.1016/j.neuron.2018.09.023*
 
-Eriksson, J., Vogel, E. K., Lansner, A., Bergström, F., & Nyberg, L. (2015). Neurocognitive Architecture of Working Memory. Neuron, 88(1), 33–46. https://doi.org/10.1016/j.neuron.2015.09.020
+*Eriksson, J., Vogel, E. K., Lansner, A., Bergström, F., & Nyberg, L. (2015). Neurocognitive Architecture of Working Memory. Neuron, 88(1), 33–46. https://doi.org/10.1016/j.neuron.2015.09.020*
 
-McNab, F., & Klingberg, T. (2008). Prefrontal cortex and basal ganglia control access to working memory. Nature Neuroscience, 11(1), 103–107. https://doi.org/10.1038/nn2024
+*McNab, F., & Klingberg, T. (2008). Prefrontal cortex and basal ganglia control access to working memory. Nature Neuroscience, 11(1), 103–107. https://doi.org/10.1038/nn2024*
 
 *Ranganath, C., Cohen, M. X., & Brozinsky, C. J. (n.d.). Working Memory Maintenance Contributes to Long-term Memory Formation: Neural and Behavioral Evidence. 17(7), 24.*
 
