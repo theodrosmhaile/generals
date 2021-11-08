@@ -103,7 +103,7 @@ Gluck, M. A. (2002). How do People Solve the “Weather Prediction” Task?: Ind
 
 ### Expertise
 
-Kahneman, D, & Klein, G. (2009). Conditions for intuitive expertise. American Psychologist, Vol. 64, No. 6, pp. 515-526.
+*Kahneman, D, & Klein, G. (2009). Conditions for intuitive expertise. American Psychologist, Vol. 64, No. 6, pp. 515-526.*
 
 
 ### Methods
