@@ -1,4 +1,4 @@
-#  Hikosaka et al  2013 Why Skill Matters
+# Hikosaka et al  2013 Why Skill Matters
 ## Research Question:
 How does skill benefit the learning organism? 
 ## Approach
@@ -9,7 +9,7 @@ This is a review article. It focuses on examining the benefits of speeded perfor
 
 ## summary and how does it connect
 - Skill is necessary because it provides the fastest streamlining of object detection and behavior deployment that results in getting a reward quickly. 
-- The most efficient way to get a reward is to reduce the time it takes to identify and categorize the object - object skill. 
+- The most efficient way to get a reward is to reduce the time it takes to identify and categorize the object - *object skill*. 
 - Object skill takes many trials to learn but is durable (long lasting), has a high capacity and is automatic. 
 - Automaticity directs attention to high-valued objects even when the current goal has changed. 
 - Voluntary search on the other hand is much slower and involves evaluating objects serially by comparing items in capacity limited working memory. 

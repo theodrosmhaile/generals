@@ -2,7 +2,7 @@
 
 Fedorenko, E., Ivanova, A., Dhamala, R., & Bers, M. U. (2019). The Language of Programming: A Cognitive Perspective. Trends in Cognitive Sciences, 23(7), 525–528. https://doi.org/10.1016/j.tics.2019.04.010
 
-
+*This paper would be a great source to think about hierarchies of processing when writing a program*
 ## Research Question:
 What are the cognitive mechanisms and corresponding brain circuits that support learning and use of prog Langs?
 Which learning/memory mechanism are required?

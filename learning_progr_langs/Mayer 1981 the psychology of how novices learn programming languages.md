@@ -1,4 +1,9 @@
-# Mayer 1981 the psychology of how novices learn programming languages. 
+# Mayer 1981 the psychology of how novices learn programming languages.
+- *Great point about the declarative knowledge and problem solving dimensions to programming*
+- *Large amount of domain knowledge is required*
+- *As with Lye and Koh, relieving cognitive load helps by meaningfully chunking information, another indicator of expert performance (inspired by chess masters example)*
+	- *This connects well with the consolidation point of view from Anderson and ACT-R*
+- *As with Mayer, 1981, there seems to be value in schemas. Experts might have larger schemas they can integrate information into so, learning new material is easier and walking down an existing cognitive map is easier and requires less problem solving because solutions might be simply recalled and modified easily to fit new situations. Seemingly, in addition to a repertoire of functions and operators, schemas for solutions to common problems makes it easier. It is difficult to say how this information is represented - is it all declarative, is it all procedural, a model-based state, or a combination of the two?*
 
 ## Research Question:
 what have we learned about how to increase the students’ understanding of computer programming?
