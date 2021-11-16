@@ -112,7 +112,7 @@ Bastos, A. M., & Schoffelen, J. M. (2016). A tutorial review of functional conne
 
 Daw, N. D. (2009). Trial-by-trial data analysis using computational models. Attention & Performance 26.
 
-*Wilson, R. C., & Collins, A. G. (2019). Ten simple rules for the computational modeling of behavioral data. ELife, 8, e49547. https://doi.org/10.7554/eLife.49547 *
+*Wilson, R. C., & Collins, A. G. (2019). Ten simple rules for the computational modeling of behavioral data. ELife, 8, e49547. https://doi.org/10.7554/eLife.49547*
 
 Gordon, E. M., Laumann, T. O., Gilmore, A. W., Newbold, D. J., Greene, D. J., Berg, J. J., Ortega, M., Hoyt-Drazen, C., Gratton, C., Sun, H., Hampton, J. M., Coalson, R. S., Nguyen, A. L., McDermott, K. B., Shimony, J. S., Snyder, A. Z., Schlaggar, B. L., Petersen, S. E., Nelson, S. M., & Dosenbach, N. U. F. (2017). Precision Functional Mapping of Individual Human Brains. Neuron, 95(4), 791-807.e7. https://doi.org/10.1016/j.neuron.2017.07.011
 
