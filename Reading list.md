@@ -116,7 +116,7 @@ Daw, N. D. (2009). Trial-by-trial data analysis using computational models. Atte
 
 Gordon, E. M., Laumann, T. O., Gilmore, A. W., Newbold, D. J., Greene, D. J., Berg, J. J., Ortega, M., Hoyt-Drazen, C., Gratton, C., Sun, H., Hampton, J. M., Coalson, R. S., Nguyen, A. L., McDermott, K. B., Shimony, J. S., Snyder, A. Z., Schlaggar, B. L., Petersen, S. E., Nelson, S. M., & Dosenbach, N. U. F. (2017). Precision Functional Mapping of Individual Human Brains. Neuron, 95(4), 791-807.e7. https://doi.org/10.1016/j.neuron.2017.07.011
 
-Rouder, J. N., & Haaf, J. M. (2019). A psychometrics of individual differences in experimental tasks. Psychonomic Bulletin & Review, 26(2), 452–467. https://doi.org/10.3758/s13423-018-1558-y
+*Rouder,J. N., & Haaf, J. M. (2019). A psychometrics of individual differences in experimental tasks. Psychonomic Bulletin & Review, 26(2), 452–467. https://doi.org/10.3758/s13423-018-1558-y
 
 
 
